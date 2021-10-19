@@ -1,0 +1,27 @@
+/* body{
+    min-height: 3000px;
+} */
+
+.img-background{
+    background-image: url(img/YHlk56g.jpg);
+}
+
+.img-background2{
+    background-image: url();
+}
+
+.fullscreen{
+    height: 100vh;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+}
+
+#projects{
+    background-color: #ffffff;
+}
+
+/* section{
+    padding-top: 5rem;
+} */
